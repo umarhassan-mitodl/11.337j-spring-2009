@@ -4,6 +4,8 @@ description: This section provides the list of readings assigned for each lectur
   session. Students are expected to critically analyze the readings and come prepared
   to discuss the readings assigned. Discussion notes are also provided for each lecture
   session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -293,7 +295,7 @@ A form-based code (FBC) is a method of regulating development to achieve a speci
 
 ### Reading 1: an integrated approach to design, policy, and implementation
 
-Moule and Polyzoides Architects and Urbanists. {{% resource_link "8152d678-5c34-42cd-b9e8-fd079f44734b" "_Uptown Whittier Specific Plan_" %}}. Whittier, CA: City of Whittier, 2008.
+Moule and Polyzoides Architects and Urbanists. [_Uptown Whittier Specific Plan_](https://www.cityofwhittier.org/government/community-development/economic-development/planning-documents/uptown-specific-plan). Whittier, CA: City of Whittier, 2008.
 
 
 {{< tdclose >}}
@@ -311,7 +313,7 @@ The Uptown Whittier Specific Plan was designed by one of the leading urban desig
 
 ### Reading 1: learning from best practices
 
-Punter, John. "{{% resource_link "c2a1e21d-431d-4b18-8578-817dd44adc8f" "Developing Urban Design as Public Policy: Best Practice Principles for Design Review and Development Management" %}}." _Journal of Urban Design_ 12 (2007): 167-202.
+Punter, John. "[Developing Urban Design as Public Policy: Best Practice Principles for Design Review and Development Management](http://www.informaworld.com/smpp/content~db=all~content=a778270888)." _Journal of Urban Design_ 12 (2007): 167-202.
 
 
 {{< tdclose >}}
@@ -326,7 +328,7 @@ The paper develops and discusses some 12 principles for best practice design rev
 
 ### Reading 2: urban design paradigms and policy
 
-Garde, Ajay. "{{% resource_link "80d13a5e-8d94-48f7-a6ab-7d2d89dbc923" "Innovations in Urban Design and Urban Form: The Making of Paradigms and the Implications for Public Policy" %}}." _Journal of Planning Education and Research_ 28 (2008): 61-72.
+Garde, Ajay. "[Innovations in Urban Design and Urban Form: The Making of Paradigms and the Implications for Public Policy](http://jpe.sagepub.com/cgi/content/abstract/28/1/61)." _Journal of Planning Education and Research_ 28 (2008): 61-72.
 
 
 {{< tdclose >}}
